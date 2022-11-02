@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+
+li.nav-item a{
+    color: darkgray;
+    margin-right: 10px;
+    font-size: 0.8em;
+}
+.myback{
+background-image: url("../images/kids.jpeg");
+background-repeat: no-repeat;
+background-position: center;
+}
